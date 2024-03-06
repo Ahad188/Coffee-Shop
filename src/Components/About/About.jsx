@@ -12,7 +12,7 @@ export const About = () => {
                </div>
                <ul className="md:flex md:justify-evenly  w-[400px] md:w-[100%] mx-auto ">
                     <li className="w-[326px] h-[200px] p-[30px] mx-auto text-center mb-5 hover:shadow-2xl ">
-                         <h4 className="text-[24px] leading-[30px] font-[400] text-[#270A05] mb-[27px]">our opening hour</h4>
+                         <h4 className="text-[24px] leading-[30px] font-[400] text-[#270A05] mb-[27px]">our opening Hours</h4>
                          <span className="text-[16px] leading-[24px] font-[400] text-[#270A05]">Mon-Sat: 07:00 - 18:00 </span> <br />
                          <span className="text-[16px] leading-[24px] font-[400] text-[#270A05]">Only Sun: 09:00 - 14:00 </span>
                     </li>
