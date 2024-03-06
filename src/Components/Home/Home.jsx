@@ -5,6 +5,7 @@ import { CoffeeMenu } from "../CoffeeMenu/CoffeeMenu"
 import { Footer } from "../Footer/Footer"
 import { Header } from "../Header/Header"
 import { NewRecipe } from "../NewRecipe/NewRecipe"
+import { ShowCase } from "../ShowCase/ShowCase"
 
  
 
@@ -18,6 +19,7 @@ export const Home = () => {
       <Choose></Choose>
       <CoffeeMenu></CoffeeMenu>
       <NewRecipe></NewRecipe>
+      <ShowCase></ShowCase>
     </div>
       <Footer></Footer>
      </>

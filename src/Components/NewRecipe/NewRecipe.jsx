@@ -17,15 +17,15 @@ export const NewRecipe = () => {
         </h2>
 
         <p className="text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 ">
-          {" "}
+        
           Malesuada cursus a tincidunt volutpat posuere lacinia. Congue malesuada lacus pharetra ut
           vel amet. Amet turpis suspendisse porttitor scelerisque amet dolor et. Nisi ac vitae
           tortor lacinirisus. Scelerisque nibh elit malesuada sodales eget iaculis nunc erat. Donec
-          quis fermentum mattis aliquet gravida. Adipiscing eu sit ornare imperdiet viverra sit vel.{" "}
+          quis fermentum mattis aliquet gravida. Adipiscing eu sit ornare imperdiet viverra sit vel. 
         </p>
 
         <p className="text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 ">
-          {" "}
+       
           There are many variations of passages of Lorem Ipsum form any injected humour, or
           randomised words which don't look slightly believable.{" "}
         </p>
@@ -35,7 +35,6 @@ export const NewRecipe = () => {
             <CiCircleChevLeft className="text-[30px]" />
           </a>
           <a href="#">
-            {" "}
             <CiCircleChevRight className="text-[30px]" />
           </a>
         </div>
