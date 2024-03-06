@@ -8,7 +8,7 @@ export const Choose = () => {
           <h2 className='text-[#270A05] text-[44px] leading-[60px] font-[400]'>Choosing Unlocklive, A Taste of Perfection</h2>
           <p className='text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 md:w-[646px]'>Unlocklive takes pride in the art of roasting, transforming raw coffee beans into a symphony of aromatic notes and rich flavors.</p>
 
-          <ul className='md:flex gap-3'>
+          <ul className='grid md:grid-cols-3 grid-cols-2 '>
                <li className='w-[203px] h-[134px] text-center border border-gray-400 lis'>
                     <h4 className='text-[#270A05] text-[44px] leading-[56px] font-[400]'>20+</h4>
                     <span className='text-[#270A05] text-[20px] leading-[30px] font-[400]'>Year Experience</span>

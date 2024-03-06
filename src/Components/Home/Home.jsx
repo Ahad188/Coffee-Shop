@@ -1,6 +1,7 @@
 import { About } from "../About/About"
 import { Banner } from "../Banner/Banner"
 import { Choose } from "../Choose/Choose"
+import { CoffeeMenu } from "../CoffeeMenu/CoffeeMenu"
 import { Footer } from "../Footer/Footer"
 import { Header } from "../Header/Header"
 
@@ -14,6 +15,7 @@ export const Home = () => {
       <Banner></Banner>
       <About></About>
       <Choose></Choose>
+      <CoffeeMenu></CoffeeMenu>
     </div>
       <Footer></Footer>
      </>

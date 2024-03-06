@@ -2,6 +2,58 @@
 @tailwind components;
 @tailwind utilities;
 
-.bo{
-     border: 2px solid red;
+.bo {
+  border: 2px solid red;
+}
+.links {
+     border: 1.5px solid #86371c;
+     padding: 18px 30px;
+     text-decoration: none;
+     color: #86371c;
+     margin-bottom: 30px;
+   }
+.subtitle {
+  position: relative;
+}
+.subtitle::before {
+  position: absolute;
+  content: "";
+  width: 35px;
+  height: 2px;
+  border: 1px solid;
+  background: linear-gradient(to right, rgba(134, 55, 28, 0) 0%, #86371c 100%);
+  top: 10px;
+  left: 43%;
+}
+.subtitle::after {
+  position: absolute;
+  content: "";
+  width: 35px;
+  height: 2px;
+  border: 1px solid;
+  background: linear-gradient(to right, rgba(134, 55, 28, 0) 0%, #86371c 100%);
+  top: 10px;
+  right: 43%;
+}
+@media screen and (max-width: 576px) {
+  .subtitle::after {
+    position: absolute;
+    content: "";
+    width: 35px;
+    height: 2px;
+    border: 1px solid;
+    background: linear-gradient(to right, rgba(134, 55, 28, 0) 0%, #86371c 100%);
+    top: 10px;
+    right: 30%;
+  }
+  .subtitle::before {
+    position: absolute;
+    content: "";
+    width: 35px;
+    height: 2px;
+    border: 1px solid;
+    background: linear-gradient(to right, rgba(134, 55, 28, 0) 0%, #86371c 100%);
+    top: 10px;
+    left: 30%;
+  }
 }
