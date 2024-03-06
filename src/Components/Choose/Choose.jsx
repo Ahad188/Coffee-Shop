@@ -3,7 +3,7 @@ import './choose.css'
 export const Choose = () => {
   return (
     <section className="mt-[110px] md:flex md:justify-between gap-[40px]">
-     <div className="left ms-[50px]">
+     <div className="left ms-[50px] mb-10 md:mb-0">
           <h4 className="sub-title text-[16px] text-[#86371C] font-[380] ">Why Choose Us</h4>
           <h2 className='text-[#270A05] text-[44px] leading-[60px] font-[400]'>Choosing Unlocklive, A Taste of Perfection</h2>
           <p className='text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 md:w-[646px]'>Unlocklive takes pride in the art of roasting, transforming raw coffee beans into a symphony of aromatic notes and rich flavors.</p>
