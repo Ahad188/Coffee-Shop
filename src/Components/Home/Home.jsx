@@ -4,6 +4,7 @@ import { Choose } from "../Choose/Choose"
 import { CoffeeMenu } from "../CoffeeMenu/CoffeeMenu"
 import { Footer } from "../Footer/Footer"
 import { Header } from "../Header/Header"
+import { NewRecipe } from "../NewRecipe/NewRecipe"
 
  
 
@@ -16,6 +17,7 @@ export const Home = () => {
       <About></About>
       <Choose></Choose>
       <CoffeeMenu></CoffeeMenu>
+      <NewRecipe></NewRecipe>
     </div>
       <Footer></Footer>
      </>
