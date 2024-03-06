@@ -1,0 +1,20 @@
+.about-p{
+     width: 319px;
+     height: 326px;
+     background: #86371C;
+     border-bottom-right-radius: 10px;
+     border-bottom-left-radius: 10px;
+     position: relative;
+}
+.about-p::before{
+     position: absolute;
+     content: '';
+     width: 242px;
+     height: 166px;
+     top: 20%;
+     left: 5%;
+     background: url('../../../src/assets/about.png');
+     background-repeat: no-repeat;
+     background-position: center;
+     
+}
