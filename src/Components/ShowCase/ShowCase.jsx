@@ -16,7 +16,7 @@ export const ShowCase = () => {
         </p>
       </div>
 
-      <ul className="mt-[40px] flex flex-wrap md:justify-evenly gap-16 ">
+      <ul className="mt-[40px] flex flex-wrap md:justify-evenly md:gap-10 px-5 md:px-0 ">
         <li className="h-[54px] w-[102px] hover:border hover:border-[#86371C] hover:rounded-[24px] pl-[30px] pt-[10px]">
           <a
             className="text-[#031811] hover:text-[#86371C] text-[22px] leading-[30px] font-[400]"

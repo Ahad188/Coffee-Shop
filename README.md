@@ -1,8 +1,19 @@
-# React + Vite
+ 
+#This is a Simple Coffee Shop Lading page for Career Unlocklive IT Limited/
+ 
+<p>
+This web site is built in a very simple way using Tailwind CSS. Tailwind CSS with React, React Icon is used. It is optimized for Mobile devices.
+</p>
+------------------------
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ ___ 
 
-Currently, two official plugins are available:
+#The Frame work that have been used to make the site.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tailwind : https://tailwindcss.com/docs/installation/play-cdn      
+     Daisy-ui tailwind : https://daisyui.com/docs/install/   
+swiper-js: https://swiperjs.com/
+
+ 
+
+React Icon : https://react-icons.github.io/react-icons/
