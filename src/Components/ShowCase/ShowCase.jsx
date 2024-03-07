@@ -2,15 +2,15 @@ export const ShowCase = () => {
   return (
     <section className="mt-[110px] ">
       <div className="title text-center ">
-        <h4 className="text-[16px] leading-[24px] font-[380] text-[#86371C] uppercase border-b border-b-[#86371C] w-[124px] mx-auto px-3 ">
+        <h4 className="text-[16px] leading-[24px] font-[380] text-[#86371C] uppercase border-b border-b-[#86371C] w-[124px] mx-auto px-3 font-[Font1] ">
           Showcase
         </h4>
 
-        <h2 className=" md:w-[501px] md:mx-auto text-[44px] leading-[60px] font-[400] text-[#270A05] mt-[15px] ">
+        <h2 className=" md:w-[501px] md:mx-auto text-[44px] leading-[60px] font-[400] text-[#270A05] mt-[15px] font-[Font2] ">
           Our Chefs New Creations
         </h2>
 
-        <p className="text-[18px] leading-[32px] font-[400] text-[#031811B3] md:w-[674px] md:mx-auto mt-[15px] px-3">
+        <p className="text-[18px] leading-[32px] font-[400] text-[#031811B3] md:w-[674px] md:mx-auto mt-[15px] px-3 font-[Font3]">
           Behold the extraordinary creations born from the synergy of our users' ingenuity and the
           transformative power of AI, a testament to boundless innovation.
         </p>

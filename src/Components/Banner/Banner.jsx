@@ -10,8 +10,8 @@ export const Banner = () => {
           <div className="md:grid md:grid-cols-2">
                <div className="pt-[56px] md:ps-[60px] px-4 md:px-0 overlay">
                     <h4 className='text-[16px] leading-[26px] font-[800] text-[#270A05]'>WELCOME TO OUR</h4>
-                    <h2  className='text-[#270A05] text-[80px] md:text-[110px] leading-[124px] font-[400]'>Unlocklive</h2>
-                    <h4  className='text-[#270A05] text-[44px] leading-[60px] font-[400]' >Elevating Your Coffee Experience </h4>
+                    <h2  className='text-[#270A05] text-[80px] md:text-[110px] leading-[124px] font-[400] font-[Font1]'>Unlocklive</h2>
+                    <h4  className='text-[#270A05] text-[44px] leading-[60px] font-[400] font-[Font2]' >Elevating Your Coffee Experience </h4>
                     <p className='md:w-[669px] text-[16px] font-[400] my-4 opacity-[0.6] mb-[50px]'>Unlocklive embodies our commitment to transforming the simple act of sipping coffee into a refined and memorable journey. At Epicurean, we take pride in curating an exceptional coffee experience that transcends the ordinary.</p>
 
                     <div className="flex gap-3 md:gap-[40px] px-4 md:px-0">

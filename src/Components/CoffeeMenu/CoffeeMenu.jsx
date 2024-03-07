@@ -8,7 +8,7 @@ export const CoffeeMenu = () => {
     <section className="mt-[110px]">
       <div className="title text-center">
         <h4 className="subtitle text-[#86371C] text-[16px] font-[380]">Coffee Menu</h4>
-        <h2 className="text-[44px] text-[#270A05] font-[400] leading-[60px]">
+        <h2 className="text-[44px] text-[#270A05] font-[600] leading-[60px] font-[Font3]">
           Unlocklive Coffee Menu
         </h2>
       </div>
@@ -16,7 +16,7 @@ export const CoffeeMenu = () => {
         <div className="md:w-[668px] h-[144px] rounded-[15px] border border-gray-400 flex items-center gap-2 md:gap-10 px-2 md:px-8 hover:shadow-2xl">
           <img src={m1} alt="m1" />
           <div>
-            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05]">
+            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05] font-[Font1]">
               Double Espresso x2
             </h4>
             <p className="w-[302px] opacity-[0.6] text-[#270A05] leading-[24px] text-[14px] font-[400]">
@@ -28,7 +28,7 @@ export const CoffeeMenu = () => {
         <div className="md:w-[668px] h-[144px] rounded-[15px] border border-gray-400 flex items-center gap-2 md:gap-10 px-2 md:px-8 hover:shadow-2xl">
           <img src={m2} alt="m1" />
           <div>
-            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05]">
+            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05] font-[Font1]">
               Hazelnut Heaven Latte
             </h4>
             <p className="w-[302px] opacity-[0.6] text-[#270A05] leading-[24px] text-[14px] font-[400]">
@@ -40,7 +40,7 @@ export const CoffeeMenu = () => {
         <div className="md:w-[668px] h-[144px] rounded-[15px] border border-gray-400 flex items-center gap-3 md:gap-10 px-2 md:px-8 hover:shadow-2xl">
           <img src={m3} alt="m1" />
           <div>
-            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05]">
+            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05] font-[Font1]">
               Salted Caramel Cold Brew
             </h4>
             <p className="w-[302px] opacity-[0.6] text-[#270A05] leading-[24px] text-[14px] font-[400]">
@@ -52,7 +52,7 @@ export const CoffeeMenu = () => {
         <div className=" md:w-[668px] h-[144px] rounded-[15px] border border-gray-400 flex items-center gap-3 md:gap-10 px-2 md:px-8 hover:shadow-2xl">
           <img src={m4} alt="m1" />
           <div>
-            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05]">
+            <h4 className="font-[600] text-[24px] leading-[36px] text-[#270A05] font-[Font1]">
               Coconut Cream Delight (Summer)
             </h4>
             <p className="w-[302px] opacity-[0.6] text-[#270A05] leading-[24px] text-[14px] font-[400]">

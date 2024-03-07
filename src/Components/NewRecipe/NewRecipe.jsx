@@ -11,12 +11,12 @@ export const NewRecipe = () => {
   return (
     <div className="mt-[110px] ">
       <div className="md:w-[450px] ms-10 md:ms-0">
-        <h4 className="sub-title text-[16px] text-[#86371C] font-[380] ">New Recipe</h4>
-        <h2 className="text-[#270A05] text-[44px] leading-[60px] font-[400]">
+        <h4 className="sub-title text-[16px] text-[#86371C] font-[380] font-[Font1.lamoda] ">New Recipe</h4>
+        <h2 className="text-[#270A05] text-[44px] leading-[60px] font-[400] font-[Font2]">
           Taste Our New Recipe
         </h2>
 
-        <p className="text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 ">
+        <p className="text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 font-[Font3] ">
         
           Malesuada cursus a tincidunt volutpat posuere lacinia. Congue malesuada lacus pharetra ut
           vel amet. Amet turpis suspendisse porttitor scelerisque amet dolor et. Nisi ac vitae
@@ -24,7 +24,7 @@ export const NewRecipe = () => {
           quis fermentum mattis aliquet gravida. Adipiscing eu sit ornare imperdiet viverra sit vel. 
         </p>
 
-        <p className="text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 ">
+        <p className="text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10  font-[Font3]">
        
           There are many variations of passages of Lorem Ipsum form any injected humour, or
           randomised words which don t look slightly believable.
