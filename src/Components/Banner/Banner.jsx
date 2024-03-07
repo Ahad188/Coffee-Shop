@@ -15,7 +15,7 @@ export const Banner = () => {
                     <p className='md:w-[669px] text-[16px] font-[400] my-4 opacity-[0.6] mb-[50px]'>Unlocklive embodies our commitment to transforming the simple act of sipping coffee into a refined and memorable journey. At Epicurean, we take pride in curating an exceptional coffee experience that transcends the ordinary.</p>
 
                     <div className="flex gap-3 md:gap-[40px] px-4 md:px-0">
-                    <a className=' rounded-[12px] bg-[#86371C] py-[15px] md:py-[18px] px-[20px] Md:px-[30px] text-white' href="#">Explore Our Menu</a>
+                    <a className=' rounded-[12px] bg-[#86371C] hover:bg-transparent hover:border hover:border-[#86371c] py-[15px] md:py-[18px] px-[20px] Md:px-[30px] text-white hover:text-[#86371c]' href="#">Explore Our Menu</a>
 
                          <ul className='flex gap-[-10px]'>
                               <li><img src={b1} alt="" /></li>

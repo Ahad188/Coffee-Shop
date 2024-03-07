@@ -10,7 +10,7 @@ import { CiCircleChevLeft, CiCircleChevRight } from "react-icons/ci";
 export const NewRecipe = () => {
   return (
     <div className="mt-[110px] ">
-      <div className="w-[450px] ms-10 md:ms-0">
+      <div className="md:w-[450px] ms-10 md:ms-0">
         <h4 className="sub-title text-[16px] text-[#86371C] font-[380] ">New Recipe</h4>
         <h2 className="text-[#270A05] text-[44px] leading-[60px] font-[400]">
           Taste Our New Recipe
@@ -27,7 +27,7 @@ export const NewRecipe = () => {
         <p className="text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 ">
        
           There are many variations of passages of Lorem Ipsum form any injected humour, or
-          randomised words which don't look slightly believable.{" "}
+          randomised words which don t look slightly believable.
         </p>
 
         <div className="flex gap-8">

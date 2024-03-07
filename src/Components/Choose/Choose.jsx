@@ -25,7 +25,7 @@ export const Choose = () => {
 
           <p className='text-[16px] font-[400] text-[#270A05] opacity-[0.6] my-10 md:w-[646px]'>Your choice to savor our coffee is an invitation to experience the epitome of craftsmanship, flavor, and dedication..</p>
 
-          <a className='w-[199px] h-[52px] rounded-[12px] links' href="#">
+          <a className='w-[199px] h-[52px] hover:bg-[#270A05] hover:text-white rounded-[12px] links' href="#">
           Explore Our Menus
           </a>
      </div>
