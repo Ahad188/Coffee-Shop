@@ -6,8 +6,8 @@ import './banner.css'
 
 export const Banner = () => {
   return (
-    <div className="w-[100%] md:w-[1366px] mx-auto">
-          <div className="md:grid md:grid-cols-2">
+    <div className="w-[100%] md:w-[1366px] mx-auto px-2 md:px-0 ">
+          <div className="md:grid md:grid-cols-2 ">
                <div className="pt-[56px] md:ps-[60px] px-4 md:px-0 overlay">
                     <h4 className='text-[16px] leading-[26px] font-[800] text-[#270A05]'>WELCOME TO OUR</h4>
                     <h2  className='text-[#270A05] text-[80px] md:text-[110px] leading-[124px] font-[400] font-[Font1]'>Unlocklive</h2>
@@ -29,7 +29,7 @@ export const Banner = () => {
                          </ul>
                     </div>
                </div>
-               <div className="">
+               <div className=" ">
                     <img className='w-[100%]' src={banner} alt="banner" />
                </div>
           </div>

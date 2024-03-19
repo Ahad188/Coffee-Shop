@@ -21,7 +21,7 @@ export const Header = () => {
       
   return (
  
-<div className="w-[100%] md:w-[1366px] md:mx-auto h-[32px] my-[27px] px-5 md:px-0">
+<div className="w-[100%] md:w-[1366px] md:mx-auto h-[32px] my-[27px] px-4 md:px-0">
 <nav className="flex justify-between gap-2 md:gap-10 items-center">
     
 

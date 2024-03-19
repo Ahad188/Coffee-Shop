@@ -9,7 +9,7 @@ import { CiCircleChevLeft, CiCircleChevRight } from "react-icons/ci";
 
 export const NewRecipe = () => {
   return (
-    <div className="mt-[110px] ">
+    <div className="mt-[110px] px-1 md:px-0 ">
       <div className="md:w-[450px] ms-10 md:ms-0">
         <h4 className="sub-title text-[16px] text-[#86371C] font-[380] font-[Font1.lamoda] ">New Recipe</h4>
         <h2 className="text-[#270A05] text-[44px] leading-[60px] font-[400] font-[Font2]">

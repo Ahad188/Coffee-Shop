@@ -5,7 +5,7 @@ import m4 from "../../assets/menu4.png";
 import price from "../../assets/price.png";
 export const CoffeeMenu = () => {
   return (
-    <section className="mt-[110px]">
+    <section className="mt-[110px]  ">
       <div className="title text-center">
         <h4 className="subtitle text-[#86371C] text-[16px] font-[380]">Coffee Menu</h4>
         <h2 className="text-[44px] text-[#270A05] font-[600] leading-[60px] font-[Font3]">

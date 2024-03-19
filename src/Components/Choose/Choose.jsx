@@ -2,7 +2,7 @@ import img from '../../assets/choose.png'
 import './choose.css'
 export const Choose = () => {
   return (
-    <section className="mt-[110px] md:flex md:justify-between gap-[40px]">
+    <section className="mt-[110px] md:flex md:justify-between gap-[40px] px-3 md:px-0">
      <div className="left ms-[50px] mb-10 md:mb-0">
           <h4 className="sub-title text-[16px] text-[#86371C] font-[380] ">Why Choose Us</h4>
           <h2 className='text-[#270A05] text-[44px] leading-[60px] font-[400] font-[Font2]'>Choosing Unlocklive, A Taste of Perfection</h2>
